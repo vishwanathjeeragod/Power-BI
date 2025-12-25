@@ -24,3 +24,9 @@
 3. Scatter Chart to compare two numeric values and find relationships.
 4. Waterfall Chart to understand step-by-step increase and decrease.
 5. These charts help in clear data visualization and analysis.
+
+## Day4 ##
+**topics covered**
+1. Gauge Chart: Used to show progress toward a target or goal, such as achieved vs target values.
+2. Map Chart : Used to display data based on geographical locations like country, state, or city. It helps in understanding regional distribution.
+3. Tree Map : Displays data in rectangular blocks to show hierarchy and proportion.     It is useful for comparing categories and sub-categories.
