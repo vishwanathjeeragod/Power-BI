@@ -30,3 +30,10 @@
 1. Gauge Chart: Used to show progress toward a target or goal, such as achieved vs target values.
 2. Map Chart : Used to display data based on geographical locations like country, state, or city. It helps in understanding regional distribution.
 3. Tree Map : Displays data in rectangular blocks to show hierarchy and proportion.     It is useful for comparing categories and sub-categories.
+
+## Day5 ##
+**Topics Covered**
+1. Number Card
+A Number Card is used to display a single important value like total sales, total profit, count of customers, or average value. It helps users quickly see key performance numbers.
+2. Simple Text Card
+A Simple Text Card is used to display text information such as titles, labels, notes, or instructions. It makes the dashboard more clear and user-friendly.
